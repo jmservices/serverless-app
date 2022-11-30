@@ -1,7 +1,7 @@
 # Prerequisites
 
 ## Application block diagram:
-![alt Infrastructure Diagram](https://github.com/jmservices/serverless-app/blob/master/files/app/docs/diagram.png)
+![alt Infrastructure Diagram](https://github.com/jmservices/serverless-app/blob/main/files/app/docs/diagram.png)
 
 
 ## Test application in local environment:
