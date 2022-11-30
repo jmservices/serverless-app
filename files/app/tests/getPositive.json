@@ -1,0 +1,8 @@
+{
+  "resource":"/hello",
+  "path":"/testuser",
+  "httpMethod":"GET",
+  "pathParameters":{
+    "username": "testuser"
+  }
+}

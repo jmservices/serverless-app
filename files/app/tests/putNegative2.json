@@ -1,0 +1,8 @@
+{
+  "path": "/testuser",
+  "httpMethod": "PUT",
+  "pathParameters": {
+    "username": "testuser"
+  },
+  "body": { "dateOfBirth": "2050-10-10" }
+}
