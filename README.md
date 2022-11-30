@@ -1,7 +1,7 @@
 # serverless-app
 Birthday API serverless application
 
-![alt Infrastructure Diagram](https://github.com/jmservices/serverless-app/blob/master/docs/diagram.png)
+![alt Infrastructure Diagram](https://github.com/jmservices/serverless-app/blob/main/docs/diagram.png)
 
 Application files are located in `files/app`
 
